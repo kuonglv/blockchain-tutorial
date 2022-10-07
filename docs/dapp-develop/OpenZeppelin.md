@@ -6,8 +6,9 @@ sidebar_position: 3
 
 Sự bùng nổ của công nghệ block chain cũng như ứng dụng phi tập trung (DApp) hiện nay đem lại nhiều lợi ích cũng như đột phá trong nhiều lĩnh vực. 
 Tuy nhiên việc phát triển nhanh và cộng đồng tham gia lớn dẫn tới việc các ứng dụng phi tập trung dần lộ ra những vi phạm về bảo mật mà từ đó kẻ xấu có thể tấn công và gây thiệt hại cho tổ chức hoặc cá nhân sở hữu nền tảng/ứng dụng.
+Ngoài ra việc xây dựng cũng như quản lý các ứng dụng đang hoạt động trên mạng lưới cũng trở nên phức tạp hơn.
 
-Để giải quyết các vấn đề về bảo mật nêu trên thì **Open Zeppelin** đã ra đời
+Để giải quyết các vấn đề nêu trên thì **Open Zeppelin** đã ra đời
 
 ![](./img/OpenZeppelin-Logo.png "")
 
@@ -42,7 +43,7 @@ Một số công cụ nổi bật của OpenZeppelin:
   + Các hợp đồng này **đã được cộng đồng xem xét và kiểm duyệt** như các tiêu chuẩn an toàn để phát triển dApps.
   + **Hoàn toàn theo mô-đun, có thể tái sử dụng và hầu hết dựa theo tiêu chuẩn kỹ thuật ERC** (Ethereum Request for Comments).
   + Công cụ trực tuyến **Contracts Wizard** giúp khởi tạo các hợp đồng thông minh một cách trực quan (Tham khảo tại https://docs.openzeppelin.com/contracts/4.x/wizard)  
-  ![](./img/oz-contracts-wizard.jpg "")
+  
   => Điều này có nghĩa là các công ty/cá nhân không cần phải phát triển các tính năng và công cụ bảo mật cho các smart contracts. Thay vào đó tập trung vào việc triển khai các hợp đồng thông minh dựa trên gói có sẵn trong thư viện của OpenZeppelin.
 
 **Upgrades**: 
